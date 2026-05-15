@@ -4,7 +4,7 @@ Documents on doing AI-assisted coding.
 
 ## What's here
 
-**[VIBE_CODING_CHEAT_SHEET.md](./vibe_coding_sheat_sheet.md)** — A working reference for effective AI-assisted coding. Context window management, small increments, testing, prompting mechanics, audit pipelines, tool routing across the major AI coding tools, project context files (`AGENTS.md`, `CLAUDE.md`, etc.), and a current snapshot of the major model families. Roughly 13 pages. Read this when you need the instructions.
+**[VIBE_CODING_CHEAT_SHEET.md](./vibe_coding_cheat_sheet.md)** — A working reference for effective AI-assisted coding. Context window management, small increments, testing, prompting mechanics, audit pipelines, tool routing across the major AI coding tools, project context files (`AGENTS.md`, `CLAUDE.md`, etc.), and a current snapshot of the major model families. Roughly 13 pages. Read this when you need the instructions.
 
 **[HITCHHIKERS_GUIDE_TO_VIBE_CODING.md](./HITCHHIKERS_GUIDE_TO_VIBE_CODING.md)** — A companion piece in a more leisurely voice. Seventeen short entries on the same practices, organized as encyclopedia-style entries with thematic nods to a certain well-loved British science fiction series. Roughly 8 pages. Read this when you want the spirit.
 
