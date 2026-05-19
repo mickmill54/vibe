@@ -1,0 +1,31 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon?
+
+# Editors
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# Python (for any scripts or tooling around the docs)
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.env
+
+# Node (just in case)
+node_modules/
+
+# Build / preview output
+_site/
+dist/
+build/
+
+# Local Claude state (not for sharing)
+.claude/settings.local.json

@@ -37,6 +37,12 @@ If you disagree with any of those, you'll probably disagree with most of the doc
 
 If something here helped, broke, or seems wrong, open an issue. If something here is missing — a practice that's served you well that isn't covered — open a PR. Real findings beat received wisdom every time.
 
+See [CONTRIBUTING.md](./CONTRIBUTING.md) for the full guidance, and [CODE_OF_CONDUCT.md](./CODE_OF_CONDUCT.md) for participation norms.
+
+## License
+
+[MIT](./LICENSE) © 2026 Mick Miller.
+
 ## Authors
 
 Mick Miller, with Claude (Anthropic) as collaborator and Trillian. First edition, May 2026.
